@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- الرابط الرئيسي -->
+  <url>
+    <loc>https://amar2027.vercel.app/</loc>
+    <lastmod>2026-05-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- باقي المشاريع -->
+  <url><loc>https://v0-luxury-3d-media-studio.vercel.app/</loc><lastmod>2026-05-29</lastmod></url>
+  <url><loc>https://v0-interactive-image-editor-xi-bice.vercel.app/</loc><lastmod>2026-05-29</lastmod></url>
+  <url><loc>https://v0-image-viewer-website-inky.vercel.app/</loc><lastmod>2026-05-29</lastmod></url>
+  <url><loc>https://v0-ammar-senan-descriptions.vercel.app/</loc><lastmod>2026-05-29</lastmod></url>
+  <url><loc>https://repository-name-beta.vercel.app/</loc><lastmod>2026-05-29</lastmod></url>
+  <url><loc>https://abcb-six.vercel.app/</loc><lastmod>2026-05-29</lastmod></url>
+  <url><loc>https://my-links1.vercel.app/</loc><lastmod>2026-05-29</lastmod></url>
+  <url><loc>https://my-linksf-ofpd.vercel.app/</loc><lastmod>2026-05-29</lastmod></url>
+  <url><loc>https://my-links4.vercel.app/</loc><lastmod>2026-05-29</lastmod></url>
+  <url><loc>https://my-linksf.vercel.app/</loc><lastmod>2026-05-29</lastmod></url>
+</urlset>
